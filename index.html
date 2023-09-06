@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<head>
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <script src="main.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs@2/webcomponents-loader.min.js"></script>
+    <script type="module" src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@1/src/zero-md.min.js"></script>
+
+    <div id="background"></div>
+
+    <zero-md>
+        <template>
+            <link
+              rel="stylesheet"
+              href="https://cdn.jsdelivr.net/gh/sindresorhus/github-markdown-css@4/github-markdown.min.css"
+            />
+            <link
+              rel="stylesheet"
+              href="https://cdn.jsdelivr.net/gh/PrismJS/prism@1/themes/prism.min.css"
+            />
+        </template>
+        <script type="text/markdown">
+          # <p align="center">**This** is my [markdown](https://example.com)</p>
+
+          ```python
+            print("Hi")
+          ```
+        </script>
+    </zero-md>
+</body>
+</html>
