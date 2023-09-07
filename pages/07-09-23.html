@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<head>
+    <title>Document</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://kit.fontawesome.com/cc1fd243c3.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+    <script src="https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs@2/webcomponents-loader.min.js"></script>
+    <script type="module" src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@1/src/zero-md.min.js"></script>
+
+    <img src="../backgrounds/background2.jpg" alt="bg" class="h-72 object-cover w-screen mb-5">
+
+    <zero-md style="margin-bottom: 30px;">
+        <template>
+            <link
+              rel="stylesheet"
+              href="https://cdn.jsdelivr.net/gh/sindresorhus/github-markdown-css@4/github-markdown.min.css"
+            />
+            <link
+              rel="stylesheet"
+              href="https://cdn.jsdelivr.net/gh/PrismJS/prism@1/themes/prism.min.css"
+            />
+        </template>
+        <script type="text/markdown">
+          # <p align="center">**This** is my [markdown](https://example.com)</p>
+
+          ```
+          function
+            class
+            print("Hi")
+          ```
+          ```
+          function
+            class
+            print("Hi")
+          ```
+          ```
+          function
+            class
+            print("Hi")
+          ```
+          ```
+          function
+            class
+            print("Hi")
+          ```
+        </script>
+    </zero-md>
+
+    <div style="position: fixed; bottom: 10px; left: 10px; background-color: rgb(237, 237, 237); border-radius: 5px; padding-left: 5px; padding-right: 5px;">
+      <a href="../index.html"><i class="fa-solid fa-angle-left"></i></a>
+      <a onclick="navigator.clipboard.writeText(window.location.href)" style="cursor: pointer"><i class="fa-solid fa-paperclip"></i></a>
+    </div>
+</body>
+</html>
