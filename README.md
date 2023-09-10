@@ -1,2 +1,2 @@
-# My-CMS (WIP)
+# My-CMS
 
