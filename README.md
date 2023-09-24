@@ -1,7 +1,7 @@
 # My-CMS
 
-My alternative for Google Docs or other platforms to write essay!!!
+My alternative for Google Docs or other platforms to write essays!!!
 
 To-do:
 - [ ] Update name
-- [ ] add readme file instead of writing directly into html file 
+- [ ] Add Markdown files instead of writing directly into HTML
