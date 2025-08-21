@@ -5,7 +5,6 @@ title: Why salt was expensive in ancient time?
 draft: false
 tags:
   - history
-  - daily
 description: Reason why salt was expensive in ancient time
 ---
 

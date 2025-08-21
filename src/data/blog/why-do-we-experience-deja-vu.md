@@ -5,7 +5,6 @@ title: Why do we experience déjà vu?
 draft: false
 tags:
   - science
-  - daily
 description: The explanation for the phenomenon of déjà vu, why we experience it
 ---
 

@@ -6,7 +6,6 @@ draft: false
 tags:
   - history
   - language
-  - daily
 description: Reasons that held Esperanto back from being an international language
 ---
 

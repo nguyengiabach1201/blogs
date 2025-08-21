@@ -5,7 +5,6 @@ title: The fascinating history of paper
 draft: false
 tags:
   - history
-  - daily
 description: The fascinating story of how paper became one of the most important materials
 ---
 

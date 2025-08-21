@@ -5,7 +5,6 @@ title: Is it better to be an early bird or a night owl?
 draft: false
 tags:
   - life
-  - daily
 description: A simple explanation on why it's better to be an early bird than a night owl
 ---
 

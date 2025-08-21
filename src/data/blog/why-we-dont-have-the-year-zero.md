@@ -5,7 +5,6 @@ title: Why we don't have the year zero?
 draft: false
 tags:
   - history
-  - daily
 description: A simple explanation on why there isn't the year zero
 ---
 

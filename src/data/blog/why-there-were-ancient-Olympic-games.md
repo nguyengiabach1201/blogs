@@ -6,7 +6,6 @@ draft: false
 tags:
   - history
   - sports
-  - daily
 description: The reasons why the Greek organized the ancient Olympics
 ---
 

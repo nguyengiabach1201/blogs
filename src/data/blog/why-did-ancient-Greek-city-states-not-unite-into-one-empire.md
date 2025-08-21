@@ -5,7 +5,6 @@ title: Why did ancient Greek city states not unite into one empire?
 draft: false
 tags:
   - history
-  - daily
 description: The surprising reason that ancient Greek city states did not unite into one empire until the time of Phillip the Second
 ---
 
