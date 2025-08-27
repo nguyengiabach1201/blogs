@@ -1,26 +1,26 @@
 ---
 author: Nguyễn Gia Bách
 pubDatetime: 2025-05-07T22:00:00+07:00
-title: Why did ancient Greek city states not unite into one empire?
+title: Why Ancient Greek City-States Did Not Unite into One Empire
 draft: false
 tags:
   - history
-description: The surprising reason that ancient Greek city states did not unite into one empire until the time of Phillip the Second
+description: The surprising reason that ancient Greek city-states did not unite into one empire until the time of Phillip the Second.
 ---
 
-The ancient Greece is the home to thousands of relatively independent city states, called _polis (πόλις)_ and its plural form _poleis (πόλεις)_. But why wasn't there a united empire but rather thousands of scattered states all over of the ancient Greece until the time of Phillip the Second?
+Ancient Greece was home to thousands of relatively independent city-states, called _polis (πόλις)_ and its plural form _poleis (πόλεις)_. But why wasn't there a united empire but rather thousands of scattered states all over ancient Greece until the time of Phillip the Second?
 
-## Table of contents
+## Table of Contents
 
-## The role of geography
+## The Role of Geography
 
-Greek city states likely developed because of the geography of the region. Greek landscape features rocky, moutainous and numerous islands. These natural features act as physical barriers and caused population to be sparsed and isolated from others, thus encouraged the developement of relative small independent city states.
+Greek city-states likely developed because of the region's geography. The Greek landscape features rocky, mountainous terrain and numerous islands. These natural features acted as physical barriers and caused populations to be sparse and isolated from one another, thus encouraging the development of relatively small, independent city-states.
 
-## Diversity and uniqueness
+## Diversity and Uniqueness
 
-Another reason for the absence of a centralized goverment was the diversity in kind of pollitical systems and ideology. Autocracy, Democracy, Monarchy, Oligarchy, Tyranny and the list goes on, more than 500 _types_ of governments. Thousands of them are tiny, but it is still enough to cause big troubles to who wants to try to unite them.
+Another reason for the absence of a centralized government was the diversity in political systems and ideology. Autocracy, Democracy, Monarchy, Oligarchy, Tyranny, and the list goes on, with more than 500 _types_ of governments. Thousands of them were tiny, but it was still enough to cause big troubles for anyone who wanted to try to unite them.
 
-It's also necessary to state that the Greek aristocracy themselves strove to maintain their states' independence. Athens elites didn't want their state to be part of others. Neither did the Thebes, Corinth, Spartan,...
+It is also necessary to state that the Greek aristocracy themselves strove to maintain their states' independence. Athens' elites did not want their state to be part of others. Neither did the Thebes, Corinth, Spartans, and so on.
 
 ## References
 

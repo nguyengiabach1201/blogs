@@ -1,26 +1,26 @@
 ---
 author: Nguyễn Gia Bách
 pubDatetime: 2025-05-11T23:00:00+07:00
-title: Why do we experience déjà vu?
+title: Why We Experience Déjà Vu
 draft: false
 tags:
   - science
-description: The explanation for the phenomenon of déjà vu, why we experience it
+description: The explanation for the phenomenon of déjà vu, why we experience it.
 ---
 
 Ever had that eerie feeling, that fleeting certainty you've lived this exact moment before, down to the smallest detail? It's like a glitch in the matrix of your memory. But is it a trick of the mind, a whisper from a past life, or something far more grounded in the workings of our brain? Let's explore the fascinating puzzle of déjà vu.
 
-## Table of contents
+## Table of Contents
 
-## Two types of déjà vu
+## Two Types of Déjà Vu
 
 Déjà vu is often split into _associative_ and _biological_ types. Associative déjà vu, common for most, is triggered by familiar elements in a new situation, linked to forgotten past experiences. Biological déjà vu, rarer and sometimes tied to conditions like epilepsy, involves intense familiarity in novel settings, possibly due to abnormal brain activity.
 
-## Neurological explanations
+## Neurological Explanations
 
 Neurologically, déjà vu might arise from a processing hiccup in memory circuits, where the brain receives information twice with a slight delay. Another idea involves familiarity signals firing too strongly for a new event.
 
-## Psychological perspectives
+## Psychological Perspectives
 
 Psychologically, unconscious memories could trigger familiarity in new situations with subtle connections to the past. Divided attention might also play a role; a later, focused look at something initially perceived vaguely could feel like a memory.
 

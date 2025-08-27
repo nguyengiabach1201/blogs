@@ -8,26 +8,27 @@ tags:
 description: A simple explanation on why it's better to be an early bird than a night owl
 ---
 
-For years, I have considered myself an early bird as my school starts at 7, the time which barely any night owl can survive. But what if I'm free to choose what time I go to school, then, what would I be, an early bird or a night owl?
+For years, I've considered myself an early bird. My school starts at 7 a.m., a time when many night owls are still fast asleep. But if I had the freedom to choose my schedule, what would I be? An early bird or a night owl?
 
-## Table of contents
+## Table of Contents
 
-## What's an early bird? What’s a night owl?
+## What's an Early Bird? What's a Night Owl?
 
-In short, early birds tend to wake up and go to sleep earlier in the day while night owls tend to wake up and go to bed later.
+Simply put, _early birds_ tend to wake up and go to sleep earlier, while _night owls_ do the opposite, preferring to wake up and go to bed later.
 
-## Advantages of being an early bird
+## Advantages of Being an Early Bird
 
-Study shows that being an early bird may find it easier to adjust their standard daytime schedules, therefore make it easier to take part in activities that operate during the day.
+Studies show that early birds may find it easier to adjust to standard daytime schedules, making it more convenient for them to participate in daily activities.
 
-In additionally, early birds are perceived by the society as being more agreeable and conscientious than the night owls.
+Additionally, early birds are often perceived by society as being more agreeable and conscientious compared to night owls.
 
-## Disadvantages of being a night owl
+## Disadvantages of Being a Night Owl
 
-Since our daily life routine often structured around the 9-5 schedule (start at 9 AM and end in 5 PM), it's a huge disadvantage for the night owls. Researchers have called this phenomenon as _social jetlag_ to describe the difficulty in accomodate a social norm.
+Since our daily routines are often structured around a 9-to-5 schedule, this presents a huge disadvantage for night owls. Researchers have even coined the term _social jetlag_ to describe the difficulty they face in accommodating social norms.
 
-Research also pointed out that a night owl may have a higher risk of type 2 diabetes, obesity and depression. They also perform worse in tests compare to their early bird peer while being perceived as more negative and stressed.
+Research has also pointed out that night owls may have a higher risk of type 2 diabetes, obesity, and depression. They also tend to perform worse on tests compared to their early-bird peers and are perceived as more negative and stressed.
 
 ## References
+
 - [Mindful larks and lonely owls: The relationship between chronotype, mental health, sleep quality, and social support in young adults](https://onlinelibrary.wiley.com/doi/abs/10.1111/jsr.13442)
 - [Genome-wide association analyses of chronotype in 697,828 individuals provides insights into circadian rhythms](https://www.nature.com/articles/s41467-018-08259-7)
