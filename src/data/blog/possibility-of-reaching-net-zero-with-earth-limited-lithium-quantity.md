@@ -1,6 +1,6 @@
 ---
 author: Nguyễn Gia Bách
-pubDatetime: 2025-08-28T22:MM:00+07:00
+pubDatetime: 2025-08-28T23:00:00+07:00
 title: Reaching Net Zero with Earth's Lithium Quantity
 draft: false
 tags:
