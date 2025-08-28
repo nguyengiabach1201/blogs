@@ -11,11 +11,7 @@ description: Earth's Lithium Reserve and Our Journey to Reach Net Zero.
 
 The goal of reaching net-zero emissions, particularly in the transportation and energy sectors, is heavily reliant on battery technology, and lithium-ion batteries are currently the dominant solution. While the world does have enough lithium to power the electric vehicle revolution, we still need to use Earth's lithium reserves in a sustainable manner.
 
----
-
 ## Table of Contents
-
----
 
 ## Earth's Lithium Quantity
 
@@ -25,8 +21,6 @@ Economically viable Earth lithium quantities, or _lithium reserves_, are estimat
 
 An electric vehicle (EV) requires approximately 8 kilograms of lithium for its battery. This means that we are able to produce around 2.5 billion electric cars with Earth's lithium resources, which only surpasses the number of EVs experts believe that we would need to reach net zero by 25%. This figure hasn't considered the amount of lithium needed for other electrical devices, such as mobile phones and laptops.
 
----
-
 ## The Need to Use Lithium Sustainably
 
 While there is theoretically enough lithium to meet net-zero goals, a lithium shortage is expected to happen in the near future due to an excessive demand for electric-powered vehicles and devices that the lithium-mining industry can't keep up with.
@@ -34,8 +28,6 @@ While there is theoretically enough lithium to meet net-zero goals, a lithium sh
 Less than 5% of lithium is recycled despite its high recycling rate, which can reach over 90%. This is partially due to the intricacy and the lack of standardization in circuit design.
 
 Improper disposal of lithium batteries causes soil and water contamination from toxic heavy metals like nickel, manganese, and cobalt, which slows us down from reaching net zero.
-
----
 
 ## References
 
