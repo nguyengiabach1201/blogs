@@ -9,7 +9,7 @@ tags:
 description: Possessing an ability to find relations between objects could help foster creativity.
 ---
 
-During a Fine Arts class on a February afternoon, my teacher challenged our class to find new ideas in ordinary objects. He referenced our recent Literature assignment—to write a letter from the perspective of the ocean—and then picked up a plastic bottle. "Instead of just writing a letter from the ocean," he said, "let's imagine the ocean thousands of years from now finding this bottle with a letter from the last human on earth."
+During a Fine Arts class on a February morning, my teacher challenged our class to find new ideas in ordinary objects. He referenced our recent Literature assignment — to write a letter from the perspective of the ocean — and then randomly picked up a plastic bottle and a piece of paper which resembled a letter. "Instead of just writing a letter from the ocean," he said, "let's imagine the ocean thousands of years from now finding this bottle with a letter from the last human on earth."
 
 The lesson was simple, but the impact was not. This simple reframing taught me that creativity doesn't always require grand concepts. Sometimes, a truly original idea is just waiting to be discovered by connecting the things we see every day.
 
