@@ -19,7 +19,7 @@ Lithium is an abundant element found in the Earth's crust and seawater. The prim
 
 Economically viable Earth lithium quantities, or _lithium reserves_, are estimated to be around 22 million tonnes as of 2021, only a portion of the total lithium resources of 88 million tonnes.
 
-An electric vehicle (EV) requires approximately 8 kilograms of lithium for its battery. This means that we are able to produce around 2.5 billion electric cars with Earth's lithium resources, which only surpasses the number of EVs experts believe that we would need to reach net zero by 25%. This figure hasn't considered the amount of lithium needed for other electrical devices, such as mobile phones and laptops.
+An electric vehicle (EV) requires approximately 8 kilograms of lithium for its battery. This means that we are able to produce around 2.5 billion electric cars with Earth's lithium resources, which is 25% more than the estimated number of EVs needed to reach net zero. This figure hasn't considered the amount of lithium needed for other electrical devices, such as mobile phones and laptops.
 
 ## The Need to Use Lithium Sustainably
 
