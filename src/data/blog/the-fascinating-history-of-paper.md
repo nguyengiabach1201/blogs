@@ -1,6 +1,7 @@
 ---
 author: Nguyễn Gia Bách
 pubDatetime: 2025-05-06T22:45:00+07:00
+modDatetime: 2025-08-27T21:25:00+07:00
 title: The Fascinating History of Paper
 draft: false
 tags:

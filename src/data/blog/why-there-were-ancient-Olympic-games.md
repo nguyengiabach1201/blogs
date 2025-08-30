@@ -1,6 +1,7 @@
 ---
 author: Nguyễn Gia Bách
 pubDatetime: 2025-05-09T23:15:00+07:00
+modDatetime: 2025-08-27T21:25:00+07:00
 title: The Reasons for the Ancient Olympic Games
 draft: false
 tags:

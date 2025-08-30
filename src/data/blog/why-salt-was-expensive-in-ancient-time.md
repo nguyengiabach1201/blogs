@@ -1,6 +1,7 @@
 ---
 author: Nguyễn Gia Bách
 pubDatetime: 2025-05-13T22:55:00+07:00
+modDatetime: 2025-08-27T21:25:00+07:00
 title: Why Salt Was Expensive in Ancient Times
 draft: false
 tags:
