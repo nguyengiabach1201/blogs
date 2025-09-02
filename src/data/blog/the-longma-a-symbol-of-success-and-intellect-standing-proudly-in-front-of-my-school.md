@@ -19,7 +19,7 @@ The Longma, a mythical creature that translates to _dragon horse_, is a powerful
     alt="The Longma at Quoc Hoc's trấn phong"
   />
     <figcaption class="text-center">
-    Me standing next to the Longma at Quoc Hoc's trấn phong
+    Me standing next to the Longma featured on Quoc Hoc's trấn phong
   </figcaption>
 </figure>
 
