@@ -12,13 +12,23 @@ description: The cultural significance of one of Quoc Hoc Hue High School's most
 
 The Longma, a mythical creature that translates to "dragon horse," is a powerful and fitting symbol for Quoc Hoc Hue High School for the Gifted. This legendary beast, which has deep roots in Chinese and Vietnamese culture, stands proudly on the school grounds, embodying the school's mission and the aspirations of its students. Its presence in front of the school is a daily reminder of the values it represents.
 
+<figure>
+  <img
+    src="http://nguyengiabach1201.github.io/archive/images/250821b0.jpg"
+    alt="The Longma at Quoc Hoc's trấn phong"
+  />
+    <figcaption class="text-center">
+    Me standing next to the Longma at Quoc Hoc's trấn phong
+  </figcaption>
+</figure>
+
 ## Table of Contents
 
 ## The History of the Longma on the School Campus's _Trấn Phong_
 
-The school's _trấn phong_—a decorative stone screen common in traditional Vietnamese architecture, believed to protect against negative energy—is home to a Longma. This _trấn phong_ was built in 1896, the same year that Quoc Hoc was established.
+The school's _trấn phong_ — a decorative stone screen common in traditional Vietnamese architecture, believed to protect against negative energy — is home to a Longma. This _trấn phong_ was built in 1896, the same year that Quoc Hoc was established.
 
-Engraved on the screen are classical Chinese characters, which read from right to left: _成傣捌年拾壹月吉日造_. This translates to _Constructed on an auspicious day in November, in the 8th year of the Thành Thái reign (1896)._
+Engraved on the _trấn phong_ are classical Chinese characters, which read from right to left: _成傣捌年拾壹月吉日造_. This translates to _Constructed on an auspicious day in November, in the 8th year of the Thành Thái reign (1896)._
 
 ## A Symbol of Intellect and Success
 
