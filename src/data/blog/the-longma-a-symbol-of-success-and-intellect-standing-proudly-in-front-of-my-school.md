@@ -15,7 +15,7 @@ The Longma, a mythical creature that translates to _dragon horse_, is a powerful
 
 <figure>
   <img
-    src="http://nguyengiabach1201.github.io/archive/images/250821b0.jpg"
+    src="http://nguyengiabach1201.github.io/archive/images/250821BA.jpg"
     alt="The Longma at Quoc Hoc's trấn phong"
   />
     <figcaption class="text-center">
