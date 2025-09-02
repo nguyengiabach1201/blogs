@@ -11,7 +11,7 @@ tags:
 description: The cultural significance of one of Quoc Hoc Hue High School's most famous symbols.
 ---
 
-The Longma, a mythical creature that translates to "dragon horse," is a powerful and fitting symbol for Quoc Hoc Hue High School for the Gifted. This legendary beast, which has deep roots in Chinese and Vietnamese culture, stands proudly on the school grounds, embodying the school's mission and the aspirations of its students. Its presence in front of the school is a daily reminder of the values it represents.
+The Longma, a mythical creature that translates to _dragon horse_, is a powerful and fitting symbol for Quoc Hoc Hue High School for the Gifted. This legendary beast, which has deep roots in Chinese and Vietnamese culture, stands proudly on the school grounds, embodying the school's mission and the aspirations of its students. Its presence in front of the school is a daily reminder of the values it represents.
 
 <figure>
   <img
