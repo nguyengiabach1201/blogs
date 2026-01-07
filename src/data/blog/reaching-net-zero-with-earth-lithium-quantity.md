@@ -37,3 +37,7 @@ Improper disposal of lithium batteries causes soil and water contamination from 
 - [Lithium ion battery recycling](https://www.cas.org/resources/cas-insights/lithium-ion-battery-recycling)
 - [Why your phone battery gets worse over time](https://ed.ted.com/lessons/why-your-phone-battery-gets-worse-over-time-george-zaidan)
 - [Lithium Shortage Looms: Meeting the Surge in Demand by 2030](https://carboncredits.com/lithium-shortage-looms-meeting-the-surge-in-demand-by-2030/)
+
+## Related Articles
+
+- [Environmental Impacts from Electric Vehicles Compared to Internal Combustion Engine Vehicles](environmental-impacts-from-electric-vehicles-compared-to-Internal-combustion-engine-vehicles)
