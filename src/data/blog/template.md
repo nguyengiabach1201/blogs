@@ -1,6 +1,6 @@
 ---
 author: Nguyễn Gia Bách
-pubDatetime: YYYY-MM-DDTHH:MM:00+07:00
+pubDatetime: 2010-01-12T00:00:00+07:00
 title: title goes here
 draft: false
 tags:
