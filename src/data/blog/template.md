@@ -2,7 +2,7 @@
 author: Nguyễn Gia Bách
 pubDatetime: 2010-01-12T00:00:00+07:00
 title: title goes here
-draft: false
+draft: true
 tags:
   - tag1
   - tag2
