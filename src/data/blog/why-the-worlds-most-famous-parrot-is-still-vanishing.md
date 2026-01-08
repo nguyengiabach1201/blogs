@@ -41,8 +41,8 @@ Despite these successes, the reintroduced population remains small and fragile. 
 
 ## References
 
-- [Spix's Macaw]([Cyanopsitta spixii (Spix's Macaw)](https://www.iucnredlist.org/species/22685533/153022606))
-- [Virus outbreak deepens rift over return of Spix’s macaw to Brazil]([Virus outbreak deepens rift over return of Spix’s macaw to Brazil](https://news.mongabay.com/2025/10/virus-outbreak-deepens-rift-over-return-of-spixs-macaw-to-brazil/))
-- [Saving the blue parrots of South America]([Saving the blue parrots of South America | BBC Earth](https://www.bbcearth.com/news/saving-the-blue-parrots-of-south-america))
-- [Spix’s Macaw, Star of “Rio,” Spotted in the Wild for the First Time in 15 Years]([Spix’s Macaw, Star of “Rio,” Spotted in the Wild for the First Time in 15 Years](https://www.smithsonianmag.com/smart-news/spixs-macaw-thought-extinct-wild-videoed-brazil-180959576/?no-ist))
-- [Two decades after it disappeared in nature, the stunning blue Spix’s macaw will be reintroduced to its forest home]([Two decades after it vanished, the stunning Spix’s macaw returns to its forest home | Science | AAAS](https://www.science.org/content/article/two-decades-vanished-stunning-spixs-macaw-returns-forest-home))
+- [Spix's Macaw](https://www.iucnredlist.org/species/22685533/153022606)
+- [Virus outbreak deepens rift over return of Spix’s macaw to Brazil](https://news.mongabay.com/2025/10/virus-outbreak-deepens-rift-over-return-of-spixs-macaw-to-brazil/)
+- [Saving the blue parrots of South America](https://www.bbcearth.com/news/saving-the-blue-parrots-of-south-america)
+- [Spix’s Macaw, Star of “Rio,” Spotted in the Wild for the First Time in 15 Years](https://www.smithsonianmag.com/smart-news/spixs-macaw-thought-extinct-wild-videoed-brazil-180959576/?no-ist)
+- [Two decades after it disappeared in nature, the stunning blue Spix’s macaw will be reintroduced to its forest home](https://www.science.org/content/article/two-decades-vanished-stunning-spixs-macaw-returns-forest-home)
