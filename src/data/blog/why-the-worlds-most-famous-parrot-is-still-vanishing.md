@@ -1,6 +1,6 @@
 ---
 author: Nguyễn Gia Bách
-pubDatetime: 2026-01-07T22:00:00+07:00
+pubDatetime: 2026-01-08T10:30:00+07:00
 title: Why the World’s Most Famous Parrot is Still Vanishing
 draft: false
 tags:
