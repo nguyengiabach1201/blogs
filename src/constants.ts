@@ -16,16 +16,16 @@ export const SOCIALS = [
     icon: IconGitHub,
   },
   {
-    name: "X",
-    href: "https://x.com/giabach1201",
-    linkTitle: `Me on X`,
-    icon: IconBrandX,
-  },
-  {
     name: "Facebook",
     href: "https://www.facebook.com/nguyengiabach1201/",
     linkTitle: `Me on Facebook`,
     icon: IconFacebook,
+  },
+  {
+    name: "X",
+    href: "https://x.com/giabach1201",
+    linkTitle: `Me on X`,
+    icon: IconBrandX,
   },
   {
     name: "Mail",
