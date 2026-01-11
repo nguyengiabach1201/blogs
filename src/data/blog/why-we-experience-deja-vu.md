@@ -6,6 +6,7 @@ title: Why We Experience Déjà Vu
 draft: false
 tags:
   - science
+  - life
 description: The explanation for the phenomenon of déjà vu, why we experience it.
 ---
 
