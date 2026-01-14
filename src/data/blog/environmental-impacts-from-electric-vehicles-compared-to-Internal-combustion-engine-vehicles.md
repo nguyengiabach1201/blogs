@@ -6,6 +6,7 @@ draft: false
 tags:
   - science
   - environment
+  - technology
 description: A comprehensive comparison of the environmental impacts caused by electric vehicles (EVs) versus internal combustion engine (ICE) vehicles.
 ---
 

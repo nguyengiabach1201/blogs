@@ -13,7 +13,7 @@ While the North Atlantic is synonymous with high-stakes hurricane seasons, its s
 
 <figure>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/South_Atlantic_hurricane_tracks.png/1024px-South_Atlantic_hurricane_tracks.png" 
-  alt="A Spix's Macaw in Vogelpark Walsrode, Walsrode, Germany in about 1980."
+  alt="Tracks of named South Atlantic tropical and subtropical cyclones since 2004"
   />
   <figcaption class="text-center">
   Tracks of named South Atlantic tropical and subtropical cyclones since 2004
