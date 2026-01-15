@@ -6,6 +6,7 @@ draft: false
 tags:
   - arts
   - technology
+  - culture
 description: George Seurat's approach to colors and its conceptual similarity to digital screens
 ---
 

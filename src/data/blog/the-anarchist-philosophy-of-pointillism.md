@@ -7,6 +7,7 @@ tags:
   - arts
   - philosophy
   - history
+  - culture
 description: The relation between Pointillism and the philosophy of Anarchy
 ---
 
