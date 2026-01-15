@@ -13,7 +13,7 @@ Pointillism is a painting technique in which small, distinct dots of color are a
 
 <figure>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/A_Sunday_on_La_Grande_Jatte%2C_Georges_Seurat%2C_1884.png/1024px-A_Sunday_on_La_Grande_Jatte%2C_Georges_Seurat%2C_1884.png" 
-  alt="A Sunday on La Grande Jatte, Georges Seurat, 1884"
+  alt="Georges Seurat's A Sunday on La Grande Jatte, one of the most famous Pointillist paintings"
   />
   <figcaption class="text-center">
 Georges Seurat's A Sunday on La Grande Jatte, one of the most famous Pointillist paintings
@@ -44,3 +44,7 @@ Computer and phone screens use tiny red, green, and blue pixels that blend in to
 - [Georges Seurat: Great Art Explained](https://www.youtube.com/watch?v=AJr2T1ko3Is)
 - [Pointillism Art Movement And Its Most Inspiring Artists](https://blog.artsper.com/en/a-closer-look/art-movements-en/pointillism-artists-dotted-art/)
 - [Color display, liquid crystal display, and semi-transmissive liquid crystal display](https://patents.google.com/patent/US9626918B2/)
+
+## Related Articles
+
+- [The Anarchist Philosophy of Pointillism](the-anarchist-philosophy-of-pointillism)

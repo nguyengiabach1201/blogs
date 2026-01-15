@@ -30,3 +30,7 @@ Thermodynamics dictates that for every 1°C rise in atmospheric temperature, the
 - [How do hurricanes form and are they getting stronger?](https://www.bbc.com/news/articles/cz913gxlw3jo)
 - [How climate change makes hurricanes more destructive](https://www.edf.org/climate/how-climate-change-makes-hurricanes-more-destructive)
 - [A Warming Earth is Also a Wetter Earth](https://www.ncei.noaa.gov/news/warming-earth-also-wetter-earth)
+
+## Related Articles
+
+- [Nature’s Perfect Shield: Why the South Atlantic Defies the Storm](natures-perfect-shield-why-the-south-atlantic-defies-the-storm)
