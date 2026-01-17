@@ -39,4 +39,4 @@ To Anarchist post-Impressionist artists George Seurat and Paul Signac, each smal
 
 ## Related Articles
 
-- [Pointillism and its Futuristic Idea](pointillism-and-its-futuristic-idea)
+- [Pointillism and its Futuristic Idea](./pointillism-and-its-futuristic-idea)

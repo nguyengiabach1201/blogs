@@ -44,4 +44,4 @@ On average, South Atlantic records around 1 tropical cyclones yearly. Similar to
 
 ## Related articles
 
-- [The Impacts of Climate Change on the Intensity of Tropical Storms](the-impacts-of-climate-change-on-the-intensity-of-tropical-storms)
+- [The Impacts of Climate Change on the Intensity of Tropical Storms](./the-impacts-of-climate-change-on-the-intensity-of-tropical-storms)

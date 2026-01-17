@@ -40,4 +40,4 @@ Improper disposal of lithium batteries causes soil and water contamination from 
 
 ## Related Articles
 
-- [Environmental Impacts from Electric Vehicles Compared to Internal Combustion Engine Vehicles](environmental-impacts-from-electric-vehicles-compared-to-Internal-combustion-engine-vehicles)
+- [Environmental Impacts from Electric Vehicles Compared to Internal Combustion Engine Vehicles](./environmental-impacts-from-electric-vehicles-compared-to-Internal-combustion-engine-vehicles)
