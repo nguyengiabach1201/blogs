@@ -33,4 +33,4 @@ Thermodynamics dictates that for every 1°C rise in atmospheric temperature, the
 
 ## Related Articles
 
-- [Nature’s Perfect Shield: Why the South Atlantic Defies the Storm](./natures-perfect-shield-why-the-south-atlantic-defies-the-storm)
+- [Nature’s Perfect Shield: Why the South Atlantic Defies the Storm](../natures-perfect-shield-why-the-south-atlantic-defies-the-storm)

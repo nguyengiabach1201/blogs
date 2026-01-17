@@ -48,4 +48,4 @@ Computer and phone screens use tiny red, green, and blue pixels that blend in to
 
 ## Related Articles
 
-- [The Anarchist Philosophy of Pointillism](./the-anarchist-philosophy-of-pointillism)
+- [The Anarchist Philosophy of Pointillism](../the-anarchist-philosophy-of-pointillism)

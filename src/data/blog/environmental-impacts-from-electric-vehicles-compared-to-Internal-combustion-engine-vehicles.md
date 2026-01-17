@@ -44,4 +44,4 @@ In conclusion, while both electric and internal combustion engine vehicles have 
 
 ## Related Articles
 
-- [Reaching Net Zero with Earth's Lithium Quantity](./reaching-net-zero-with-earths-lithium-quantity.md)
+- [Reaching Net Zero with Earth's Lithium Quantity](../reaching-net-zero-with-earths-lithium-quantity)
