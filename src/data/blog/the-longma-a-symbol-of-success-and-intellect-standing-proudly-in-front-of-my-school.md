@@ -5,9 +5,9 @@ modDatetime: 2025-09-02T20:15:00+07:00
 title: The Longma - A Symbol of Success and Intellect Standing Proudly in Front of My School
 draft: false
 tags:
-  - life
   - culture
   - history
+  - vietnam
 description: The cultural significance of one of Quoc Hoc Hue High School's most famous symbols.
 ---
 

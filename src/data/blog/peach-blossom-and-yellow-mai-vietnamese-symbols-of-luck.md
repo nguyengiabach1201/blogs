@@ -5,6 +5,7 @@ title: Peach Blossom and Yellow Mai - Vietnamese Symbols of Luck
 draft: false
 tags:
   - culture
+  - vietnam
 description: An exploration of the cultural and spiritual significance of peach blossoms and yellow mai during the Vietnamese Lunar New Year
 ---
 
