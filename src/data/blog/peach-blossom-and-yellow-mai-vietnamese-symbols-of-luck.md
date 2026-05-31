@@ -13,7 +13,7 @@ In Vietnamese culture, *hoa đào* (peach blossom) and *hoa mai* (yellow mai) ar
 
 <figure>
   <img
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ochna_integerrima2.jpg/1024px-Ochna_integerrima2.jpg"
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ochna_integerrima2.jpg/1280px-Ochna_integerrima2.jpg"
     alt="Yellow Mai flowers at Tết"
   />
     <figcaption class="text-center">

@@ -13,7 +13,7 @@ description: The relation between Pointillism and the philosophy of Anarchy
 Pointillism, developed by Anarchists artists, namely Georges Seurat and Paul Signac, often conflate the philosophy of Anarchism: individuals, distinct dots (representing individual freedom and labor) combine through collective effort to form a vibrant whole (a free society without the state).
 
 <figure>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Paul_Signac%2C_1893-95%2C_Au_temps_d%E2%80%99harmonie%2C_oil_on_canvas%2C_310_x_410_cm.jpg/1024px-Paul_Signac%2C_1893-95%2C_Au_temps_d%E2%80%99harmonie%2C_oil_on_canvas%2C_310_x_410_cm.jpg" 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Paul_Signac%2C_1893-95%2C_Au_temps_d%E2%80%99harmonie%2C_oil_on_canvas%2C_310_x_410_cm.jpg/1280px-Paul_Signac%2C_1893-95%2C_Au_temps_d%E2%80%99harmonie%2C_oil_on_canvas%2C_310_x_410_cm.jpg" 
   alt="Paul Signac's In the Time of Harmony, whose original title is In the Time of Anarchy"
   />
   <figcaption class="text-center">

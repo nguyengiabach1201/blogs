@@ -13,7 +13,7 @@ description: George Seurat's approach to colors and its conceptual similarity to
 Pointillism is a painting technique in which small, distinct dots of color are applied in patterns to form an image. Its fundamental principle lies in its scientific and systematic approach to color and light, which predated and conceptually parallels modern digital imaging technology, pixels.
 
 <figure>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/A_Sunday_on_La_Grande_Jatte%2C_Georges_Seurat%2C_1884.png/1024px-A_Sunday_on_La_Grande_Jatte%2C_Georges_Seurat%2C_1884.png" 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/A_Sunday_on_La_Grande_Jatte%2C_Georges_Seurat%2C_1884.png/1280px-A_Sunday_on_La_Grande_Jatte%2C_Georges_Seurat%2C_1884.png" 
   alt="Georges Seurat's A Sunday on La Grande Jatte, one of the most famous Pointillist paintings"
   />
   <figcaption class="text-center">

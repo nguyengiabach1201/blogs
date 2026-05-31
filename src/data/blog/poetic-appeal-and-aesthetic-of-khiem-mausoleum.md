@@ -15,7 +15,7 @@ Khiêm Mausoleum is a burial site built under the Nguyễn Dynasty, dedicated to
 
 <figure>
   <img
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Tomb_of_Emperor_T%E1%BB%B1_%C4%90%E1%BB%A9c_1.jpg/1024px-Tomb_of_Emperor_T%E1%BB%B1_%C4%90%E1%BB%A9c_1.jpg"
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Tomb_of_Emperor_T%E1%BB%B1_%C4%90%E1%BB%A9c_1.jpg/1280px-Tomb_of_Emperor_T%E1%BB%B1_%C4%90%E1%BB%A9c_1.jpg"
     alt="Xung Khiêm Pavilion before restoration"
   />
     <figcaption class="text-center">

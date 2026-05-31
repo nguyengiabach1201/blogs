@@ -12,7 +12,7 @@ description: An exploration of the atmospheric 'shield' that prevents tropical c
 While the North Atlantic is synonymous with high-stakes hurricane seasons, its southern counterpart remains an anomaly of relative calm. For over a century, the South Atlantic was widely considered a _forbidden zone_ for tropical cyclones.
 
 <figure>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/South_Atlantic_hurricane_tracks.png/1024px-South_Atlantic_hurricane_tracks.png" 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/South_Atlantic_hurricane_tracks.png/1280px-South_Atlantic_hurricane_tracks.png" 
   alt="Tracks of named South Atlantic tropical and subtropical cyclones since 2004"
   />
   <figcaption class="text-center">

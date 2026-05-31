@@ -36,7 +36,7 @@ The city excels at taking massive historic shells and gutting them for modern us
 To preserve the skyline of the historic center, the city directs high-rise modern developments to specific zones across the Danube River, created a _mini-Manhattan_, which houses many of the tallest skyscrapers in Austria. 
 
 <figure>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Donau_City_Vienna_from_Donauinsel_on_2014-08-28.png/1024px-Donau_City_Vienna_from_Donauinsel_on_2014-08-28.png"
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Donau_City_Vienna_from_Donauinsel_on_2014-08-28.png/1280px-Donau_City_Vienna_from_Donauinsel_on_2014-08-28.png"
     alt="The Donau City in Vienna, with the tallest building in Austria the DC Tower 1, seen from the Donauinsel on August 28, 2014."
   />
     <figcaption class="text-center">
