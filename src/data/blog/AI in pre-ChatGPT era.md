@@ -2,7 +2,7 @@
 author: Nguyễn Gia Bách
 pubDatetime: 2026-06-03T15:40:00+07:00
 title: AI in pre-ChatGPT era
-draft: true
+draft: false
 tags:
   - technology
 description: The characteristic of AI previously to the AI Boom.
